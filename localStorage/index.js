@@ -35,4 +35,3 @@ const localStorage = {
 };
 
 export { localStorage as default };
-
